@@ -1,5 +1,14 @@
 [
     {
+        "nombreCorto": "Primeros Auxilios",
+        "nombre": "Primeros Auxilios",
+        "horas": 1,
+        "instructor": "Poncho Muñoz",
+        "finalizado": "11/08/2025",
+        "certificado": "http://ude.my/UC-c1ecc957-6d59-41a9-9986-fa8a68ee3e06/",
+        "tema": "Personal"
+    },
+    {
         "nombreCorto": "Técnicas de cuchillo y cortes",
         "nombre": "Técnicas de cuchillo y cortes",
         "horas": 2,
